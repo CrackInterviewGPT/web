@@ -5,7 +5,9 @@ We takes your privacy seriously. To better protect your privacy we provide this 
 
 ## Collection of Routine Information
 
-This website track basic information about their users. This information includes, but is not limited to, IP addresses, browser details, timestamps, logs og usage and referring pages. None of this information can personally identify specific user to this website. The information is tracked for routine administration and maintenance purposes.
+This website track basic information about their users. This information includes, but is not limited to, IP addresses, browser details, timestamps and referring pages. None of this information can personally identify specific user to this website. The information is tracked for routine administration and maintenance purposes.
+
+When you use this website, we collect information about how you use our products and services. We use that information to provide you with services, help improve our services and to develop new  features, and technologies that benefit our users and the public. For example, we use the collected information to help train our AI models and build features that this website provides.
 
 
 ## Cookies
